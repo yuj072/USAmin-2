@@ -1,1 +1,3 @@
-# Imdb-Score-Prediction-2
+# TMDb Score Prediction
+
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
