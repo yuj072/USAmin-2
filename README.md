@@ -26,5 +26,5 @@ Using the same metrics for accuracy as [USAmin](https://github.com/yuj072/USAmin
 
 <img src="https://latex.codecogs.com/gif.latex?Math.abs(predicted&space;-&space;actual)&space;<=&space;0.25">
 
-the same results (~20% accuracy) were obtained. This reinforces the conclusion we reached at the end of the [USAmin](https://github.com/yuj072/USAmin) project: _There appears to be a very weak correlation between a movie's summary and average rating._
+the same results (~20% accuracy) were obtained. This reinforces the conclusion we reached at the end of the [USAmin](https://github.com/yuj072/USAmin) project: _There appears to be a very weak correlation between a movie's summary and it's average rating._
 
